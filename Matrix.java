@@ -1,7 +1,6 @@
-
 import java.util.Random;
 
-class Matrix{
+public class Matrix{
     
     // matrix[row][col]
     
